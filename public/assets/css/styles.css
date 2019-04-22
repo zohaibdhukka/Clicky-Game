@@ -1,0 +1,59 @@
+.nav-wrapper {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.header {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.parallax-container {
+	min-height: 400px;
+	height: auto;
+	vertical-align: bottom;
+	color: rgba(255, 255, 255, .9);
+}
+
+.parallax-container .section {
+	width: 100%;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	border: none;
+	font: normal 50px/normal "Chau Philomene One", Helvetica, sans-serif;
+	color: rgb(242, 255, 61);
+	text-align: center;
+	-o-text-overflow: clip;
+	text-overflow: clip;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+
+.divider {
+	margin: 20px 0 20px 0;
+}
+
+.parallax {
+	vertical-align: bottom;
+}
+
+.card {
+	border: 5px solid white;
+}
+
+.card:hover {
+	cursor: pointer;
+}
+
+.card-image {
+	padding: 10%;
+}
+
+.parallax img {
+	width: 100%;
+}
